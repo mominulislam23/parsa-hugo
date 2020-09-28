@@ -7,11 +7,7 @@ title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
